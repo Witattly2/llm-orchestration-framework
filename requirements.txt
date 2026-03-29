@@ -1,0 +1,6 @@
+langchain
+llamaindex
+fastapi
+transformers
+uvicorn
+python-dotenv
